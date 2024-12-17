@@ -44,3 +44,7 @@ html {
 #contact a {
 	text-decoration: none;
 }
+
+#under-contact {
+	display: inline;
+}
